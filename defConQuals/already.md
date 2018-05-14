@@ -16,6 +16,6 @@ Then, I click on the challenge, and I noticed that three requests were sent out 
 
 Then, I determined that the fetch was probably of interest. On inspection of the response message, I noticed that there was a comment inside of the message:
 
-![Picture of message](forWriteUp0.png)
+![Picture of message](forWriteUp2.png)
 
 The comment contained the flag: OOO{Sometimes, the answer is just staring you in the face. We have all been there}
