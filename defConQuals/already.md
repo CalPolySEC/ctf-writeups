@@ -12,7 +12,7 @@ I opened the developers tools to get a look at what was happening on the webpage
 
 Then, I click on the challenge, and I noticed that three requests were sent out when the challenge was clicked: a fetch, script, and a font request.
 
-![Picture of developer tools on networks tab -- after clicking on challenge](forWriteUp0.png)
+![Picture of developer tools on networks tab -- after clicking on challenge](forWriteUp1.png)
 
 Then, I determined that the fetch was probably of interest. On inspection of the response message, I noticed that there was a comment inside of the message:
 
