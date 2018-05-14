@@ -2,6 +2,6 @@
 ### Put on by the Order of the Overflow
 
 #### Challenge solved:
-- You Already Know
-- Say Hi!
+- [You Already Know](already.md)
+- [Say Hi!](hi.md)
 

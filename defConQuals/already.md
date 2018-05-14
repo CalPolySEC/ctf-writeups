@@ -1,4 +1,6 @@
 # You Already Know
+Category: Warmup (Web)
+
 
 After looking the in the html, css, and json files, I noticed that "if you can read this" was emphasized.
 
