@@ -10,6 +10,7 @@ I opened the developers tools to get a look at what was happening on the webpage
 
 Then, I determined that the fetch was probably of interest. On inspection of the response message, I noticed that there was a comment inside of the message.
 
-```Stop overthinking it, you already know the answer here. [comment]: <> (OOO{Sometimes, the answer is just staring you in the face. We have all been there}) You already have the flag. **Seriously**, _if you can read this_, then you have the flag. Submit it! 
+```
+Stop overthinking it, you already know the answer here. [comment]: <> (OOO{Sometimes, the answer is just staring you in the face. We have all been there}) You already have the flag. **Seriously**, _if you can read this_, then you have the flag. Submit it! 
 ```
 The comment contained the flag: OOO{Sometimes, the answer is just staring you in the face. We have all been there}
