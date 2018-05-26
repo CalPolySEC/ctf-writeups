@@ -12,6 +12,8 @@ Welcome to Cal Poly's White Hat Club's CTF Write-Up Repository! If you're readin
         * For example, the folder containing write-ups for PicoCTF 2018 should be: ````picoCTF18````
         * Folder names must use __camel case__.
     2. The name of all write-up files must use __camel case__.
+        * The ````README.md```` file for the folder is an exception to this rule.
+        * Any pull requests on the ````LICENSE```` file or any files in the ````.github```` are an exception to this rule.
     3. All associated, non-markdown files should be placed in a subfolder named ````assets````
         * All non-markdown files must use __camel case__.
     4. The folder containing the write-ups must contain a README.md
