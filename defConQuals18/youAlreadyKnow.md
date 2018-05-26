@@ -8,14 +8,14 @@ During the iFixit Triatholon (an event White Hat and iFixit put on every year), 
 
 I opened the developers tools to get a look at what was happening on the webpage, and I saw several requests that looked normal. 
 
-![Picture of developer tools on networks tab -- before clicking on challenge](forWriteUp0.png)
+![Picture of developer tools on networks tab -- before clicking on challenge](assets/forWriteUp0.png)
 
 Then, I click on the challenge, and I noticed that three requests were sent out when the challenge was clicked: a fetch, script, and a font request.
 
-![Picture of developer tools on networks tab -- after clicking on challenge](forWriteUp1.png)
+![Picture of developer tools on networks tab -- after clicking on challenge](assets/forWriteUp1.png)
 
 Then, I determined that the fetch was probably of interest. On inspection of the response message, I noticed that there was a comment inside of the message:
 
-![Picture of message](forWriteUp2.png)
+![Picture of message](assets/forWriteUp2.png)
 
 The comment contained the flag: OOO{Sometimes, the answer is just staring you in the face. We have all been there}
