@@ -1,7 +1,7 @@
 # DefCon Quals CTF 2018
-### Put on by the Order of the Overflow
+### Hosted by the Order of the Overflow
 
 #### Challenge solved:
-- [You Already Know](already.md)
-- [Say Hi!](hi.md)
+- [You Already Know](youAlreadyKnow.md)
+- [Say Hi!](sayHi.md)
 
