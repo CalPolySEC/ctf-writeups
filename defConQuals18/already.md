@@ -4,7 +4,7 @@ Category: Warmup (Web)
 
 After looking the in the html, css, and json files, I noticed that "if you can read this" was emphasized.
 
-During the iFixit Triatholon (an event White Hat and iFixit put on every year), [@atila](https://github.com/atti1a) wrote a few web challenges in which flags were hidden in the headers and such.
+During the iFixit Triatholon (an event White Hat and iFixit put on every year), [@attila](https://github.com/atti1a) wrote a few web challenges in which flags were hidden in the headers and such.
 
 I opened the developers tools to get a look at what was happening on the webpage, and I saw several requests that looked normal. 
 
