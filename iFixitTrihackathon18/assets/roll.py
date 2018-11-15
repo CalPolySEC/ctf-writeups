@@ -14,7 +14,9 @@ Today you're going to break that rule.
 Give me three numbers like X, Y, Z
 
 I'll use these numbers to make an encryption function
-This encryption function takes each letter c and does (X*c + Y) % Z
+This encryption function takes each letter c and
+applies (X*c + Y) % Z to the character c i times, where i
+is the index of c in the input string.
 
 You can't just give me any three numbers, though. They have to pass the test!
 
