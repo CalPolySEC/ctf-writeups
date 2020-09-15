@@ -15,10 +15,22 @@ Welcome to Cal Poly's White Hat Club's CTF Write-Up Repository! If you're readin
         * The ````README.md```` file for the folder is an exception to this rule.
         * Any pull requests on the ````LICENSE```` file or any files in the ````.github```` folder are an exception to this rule.
     3. All associated, non-markdown files should be placed in a subfolder named ````assets````
-        * All non-markdown files must use __camel case__.
+        * Asset file names should be prefixed with the challenge name.
+        * Asset files __do not__ have to use camel case if following another naming convention such as snake case for Python files.
     4. The folder containing the write-ups must contain a README.md
         * This file must contain:
             * The __full CTF name__,
             * The year,
             * And a bulleted list of formatted links to all write-up markdown files.
-                * This list must be in alphabetical order.
+                * This list should be sorted by category then by point value then by alphabetical order
+                * The links should be named `challenge name - point value`
+
+An example file structure for picoCTF19:
+```
+writeups
+└── picoCTF19
+     ├── assets
+     │    └── handyShellcodeCallGraph.png
+     ├── handyShellCode.md
+     └── README.md
+```
