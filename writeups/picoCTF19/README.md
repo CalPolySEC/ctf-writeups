@@ -59,4 +59,4 @@
 - [Client-side-again - 200 points](clientSideAgain.md)
 - [Open-to-admin - 200 points](openToAdmins.md)
 - [picobrowser - 200 points](picobrowser.md)
-- [Java Script Kiddie - 400 points]()
+- [Irish-Name-Repo 1 - 300 points](irishNameRepo1.md)
